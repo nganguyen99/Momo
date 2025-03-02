@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 200%;
+}
+h1:hover{
+    color: black;
+}
+.year{
+    display:-ms-grid;
+    margin: auto;
+}
+.video{
+    display: -ms-grid;
+    margin: auto;
+}
+.maps{
+    display: block;
+    margin: auto;
+}
+h2 a{
+    color:cadetblue;
+}
